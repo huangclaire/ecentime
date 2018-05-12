@@ -1,0 +1,211 @@
+a:hover {
+  color:grey;
+  text-decoration: none;
+}
+
+textarea {
+   resize: none;
+}
+
+summary{
+  outline:none;
+}
+
+myhr {
+  margin-left: auto;
+    margin-right: auto;
+    margin-top:auto;
+    text-align: center;
+    display: block;
+    height: 1px;
+    width: 80%;
+    border: 0;
+    margin: 1em 0;
+    padding: 0;
+    background-color:black;
+    color: black;
+    border-top:5px solid #000000;
+}
+
+
+myhr2 {
+  margin-left: auto;
+    margin-right: auto;
+    margin-top:1rem;
+    margin-bottom: -5rem;
+    text-align: center;
+    display: block;
+    background: transparent url("../img/sep21.png") no-repeat top center;
+    background-size: 70% 50%;
+    width: 100%;
+    height: 140px;
+}
+
+
+
+.jumbotron-top {
+  padding: 2rem 2rem 15rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0rem;
+  background-image: url("../img/back15.jpg");
+  box-sizing: border-box;
+}
+
+.myjumbotron {
+  padding: 2rem 2rem 21rem;
+  margin-bottom: 0rem;
+  background-color: #061733;
+  border-radius: 0rem;
+  box-sizing: border-box;
+}
+
+.blanc{
+	color: #ffffff
+}
+
+.jaune{
+	color:#f9c132;
+}
+
+.mytext{
+	color: orange;
+}
+
+.mybutton{
+  background-color: #f9c132;
+}
+
+.mybutton:hover {
+    background-color: white;
+    color: orange;
+}
+
+.mydiv{
+ 	overflow:auto;
+ }
+
+.left-column {
+    float: left;
+    width: 50%;
+    display: block;
+}
+
+.right-column {
+    float: left;
+    width: 50%;
+    display: block;
+}
+
+.col11 {
+    float: left;
+    width: 20%;
+    display: block;
+}
+
+.col22 {
+    float: left;
+    width: 50%;
+    display: block;
+}
+
+.col1 {
+    float: left;
+    width: 30%;
+    display: block;
+}
+
+.col2 {
+  margin-top: 30px;
+    float: left;
+    width: 30%;
+    display: block;
+}
+
+.col3 {
+  margin-top:-40px;
+    float: left;
+    width: 40%;
+    display: block;
+}
+
+.mylist {
+	margin: auto;
+	list-style-type:none;
+}
+
+.myli{
+	display: inline-block;
+	padding: 16px;
+}
+
+.myli2{
+	display: inline-block;
+	width: 40%;
+	height: 120px;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:auto;
+  text-align: center;
+
+ }
+
+.faq{
+ top:0;
+right:0;
+}
+
+ .tabulation { margin: 0 0 0 20px; }
+
+.footer{
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+}
+
+.circle-img{
+	width: 100px; height: 100px; border-radius: 4%
+}
+
+
+.div2{
+	overflow-y: scroll;
+}
+
+.colo{
+	width: 20%;
+}
+
+
+.opaque{
+  padding: 20px;
+  border-radius:15px;
+  background-color: rgba(255, 255, 255,0.1);
+}
+
+.myform{
+  width: 80%;
+}
+
+.space{
+  margin: 3px;
+}
+
+
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    color: grey;
+}
+
+.faqdiv{
+  width: 80%;
+}
